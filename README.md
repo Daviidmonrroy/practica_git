@@ -1,2 +1,2 @@
 # practica_git
-Esto es una practica del chino 
+Esto es una practica del chino
